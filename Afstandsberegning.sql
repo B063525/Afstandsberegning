@@ -1,4 +1,4 @@
---sql work area BRB og DAM.sql version 0.1.0
+--Afstandsberegning.sql version 0.1.1
 
 ---------Creating a Temporary Work Area for Data Manipulation in BRB's Server for DAM--------------------
 --
